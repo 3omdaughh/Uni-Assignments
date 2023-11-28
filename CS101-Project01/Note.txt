@@ -1,0 +1,3 @@
+This program is converting from decimal to binary, but the
+most interesting thing in the program is that it can also
+convert numbers with fractions.
